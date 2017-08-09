@@ -83,6 +83,7 @@ Sometimes, these gists get "promoted" to full repositories ([e.g.][1]).
 - Heat equation demo ([gist][44], [nbviewer][44-nbviewer])
 - Profitability of NCAA Athletic Departments in 2011-2012 ([gist][45])
 - Compute eigenvalues with `liblapack` via `ctypes` ([gist][46])
+- Examine how to check "is eigenvalue?" via row reduction ([gist][47])
 
 [1]: https://github.com/dhermes/profiling-multicore-python
 [2]: https://github.com/dhermes/bossylobster-blog/issues/63
@@ -148,3 +149,4 @@ Sometimes, these gists get "promoted" to full repositories ([e.g.][1]).
 [44-nbviewer]: https://nbviewer.jupyter.org/gist/dhermes/608abdf5ddf26ce39b76
 [45]: https://gist.github.com/dhermes/e31b85238a0ecc43ae8a
 [46]: https://gist.github.com/dhermes/8bd7f39e1c2b216b5d61571188dd5d0a
+[47]: https://gist.github.com/dhermes/98836e156d1320cec1d3052a2813ec06
