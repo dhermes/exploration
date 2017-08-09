@@ -82,6 +82,7 @@ Sometimes, these gists get "promoted" to full repositories ([e.g.][1]).
 - Advection demo ([gist][43], [nbviewer][43-nbviewer])
 - Heat equation demo ([gist][44], [nbviewer][44-nbviewer])
 - Profitability of NCAA Athletic Departments in 2011-2012 ([gist][45])
+- Compute eigenvalues with `liblapack` via `ctypes` ([gist][46])
 
 [1]: https://github.com/dhermes/profiling-multicore-python
 [2]: https://github.com/dhermes/bossylobster-blog/issues/63
@@ -130,7 +131,7 @@ Sometimes, these gists get "promoted" to full repositories ([e.g.][1]).
 [35]: https://gist.github.com/dhermes/d83fe28c1262e084356d
 [35-blog]: https://github.com/dhermes/bossylobster-blog/issues/57
 [36]: https://gist.github.com/dhermes/d2c99ca6bde1d91a627c
-[36-riddle]: https://en.wikipedia.org/wiki/Sum_and_Product_Puzzle
+[36-riddle]: https://en.wikipedia.org/wiki/Sum_and_Product_Puzzlehttps://gist.github.com/dhermes/8bd7f39e1c2b216b5d61571188dd5d0a
 [36-page]: https://www.bossylobster.com/sum-product-problem
 [37]: https://gist.github.com/dhermes/ba978feb8c0ea945e233
 [38]: https://gist.github.com/dhermes/93a3d9cd7bbb465db168
@@ -146,3 +147,4 @@ Sometimes, these gists get "promoted" to full repositories ([e.g.][1]).
 [44]: https://gist.github.com/dhermes/608abdf5ddf26ce39b76
 [44-nbviewer]: https://nbviewer.jupyter.org/gist/dhermes/608abdf5ddf26ce39b76
 [45]: https://gist.github.com/dhermes/e31b85238a0ecc43ae8a
+[46]: https://gist.github.com/dhermes/8bd7f39e1c2b216b5d61571188dd5d0a
