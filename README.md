@@ -131,7 +131,7 @@ Sometimes, these gists get "promoted" to full repositories ([e.g.][1]).
 [35]: https://gist.github.com/dhermes/d83fe28c1262e084356d
 [35-blog]: https://github.com/dhermes/bossylobster-blog/issues/57
 [36]: https://gist.github.com/dhermes/d2c99ca6bde1d91a627c
-[36-riddle]: https://en.wikipedia.org/wiki/Sum_and_Product_Puzzlehttps://gist.github.com/dhermes/8bd7f39e1c2b216b5d61571188dd5d0a
+[36-riddle]: https://en.wikipedia.org/wiki/Sum_and_Product_Puzzle
 [36-page]: https://www.bossylobster.com/sum-product-problem
 [37]: https://gist.github.com/dhermes/ba978feb8c0ea945e233
 [38]: https://gist.github.com/dhermes/93a3d9cd7bbb465db168
