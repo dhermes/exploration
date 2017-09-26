@@ -86,6 +86,7 @@ Sometimes, these gists get "promoted" to full repositories ([e.g.][1]).
 - Examine how to check "is eigenvalue?" via row reduction ([gist][47])
 - Playing around with precision in Fortran ([gist][48])
 - How to build a "dylib" on OS X? ([gist][49], [more complex gist][49-also])
+- Fortran `allocatable` fields in user-defined types ([gist][50])
 
 [1]: https://github.com/dhermes/profiling-multicore-python
 [2]: https://github.com/dhermes/bossylobster-blog/issues/63
@@ -155,3 +156,4 @@ Sometimes, these gists get "promoted" to full repositories ([e.g.][1]).
 [48]: https://gist.github.com/dhermes/585ec0f80a431f3412d36a18661baa62
 [49]: https://gist.github.com/dhermes/91078c56dde1f46445cb703267c67e00
 [49-also]: https://gist.github.com/dhermes/d26a12648f8c7da06d12f88cd8e1d289
+[50]: https://gist.github.com/dhermes/3672116037190217ade1a061a59a2f23
