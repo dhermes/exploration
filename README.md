@@ -88,6 +88,7 @@ Sometimes, these gists get "promoted" to full repositories ([e.g.][1]).
 - How to build a "dylib" on OS X? ([gist][49], [more complex gist][49-also])
 - Fortran `allocatable` fields in user-defined types ([gist][50])
 - Hack for a "packed" version of a C struct that contains a pointer ([gist][51])
+- `valgrind` "failure" on OS X ([gist][52])
 
 [1]: https://github.com/dhermes/profiling-multicore-python
 [2]: https://github.com/dhermes/bossylobster-blog/issues/63
@@ -159,3 +160,4 @@ Sometimes, these gists get "promoted" to full repositories ([e.g.][1]).
 [49-also]: https://gist.github.com/dhermes/d26a12648f8c7da06d12f88cd8e1d289
 [50]: https://gist.github.com/dhermes/3672116037190217ade1a061a59a2f23
 [51]: https://gist.github.com/dhermes/8bc282d0cfc14307aee9893b8487f33f
+[52]: https://gist.github.com/dhermes/ff87149740cee06b7f495dcec6d63ff0
