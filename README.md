@@ -18,7 +18,7 @@ Sometimes, these gists get "promoted" to full repositories ([e.g.][1]).
   `libc` ([gist][4])
 - Playing around with "user defined types" in Fortran; acts as a sort
   of Rosetta stone, calling Fortran from C / Fortran / `f2py` / Cython /
-  `ctypes` / `cffi` ([gist][5])
+  `ctypes` / `cffi` ([gist][5], [promoted repository][53])
 - Vetting literals in Python source code ([gist][6])
 - Profiling core usage of Python with `multiprocessing` / `threading`
   ([gist][7], [promoted repository][1])
@@ -161,3 +161,4 @@ Sometimes, these gists get "promoted" to full repositories ([e.g.][1]).
 [50]: https://gist.github.com/dhermes/3672116037190217ade1a061a59a2f23
 [51]: https://gist.github.com/dhermes/8bc282d0cfc14307aee9893b8487f33f
 [52]: https://gist.github.com/dhermes/ff87149740cee06b7f495dcec6d63ff0
+[53]: https://github.com/dhermes/foreign-fortran
