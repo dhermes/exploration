@@ -45,6 +45,7 @@ Sometimes, these gists get "promoted" to full repositories ([e.g.][1]).
   ([gist][19], [another gist][19-also], [blog post TODO][19-blog])
 - Numerical loss of precision for polynomials with repeated roots
   ([gist][20])
+  - Using a "compensated" version of floating point addition and multiplication to implement compensated Horner's algorithm ([gist][55])
 - Playing around with Newton's method on non-simple roots of 2D systems ([gist][54])
 - `+=` vs. `.join` for Python strings: combatting a true-ism ([gist][21])
 - Massive research project with curved supermeshes ([gist][22])
@@ -164,3 +165,4 @@ Sometimes, these gists get "promoted" to full repositories ([e.g.][1]).
 [52]: https://gist.github.com/dhermes/ff87149740cee06b7f495dcec6d63ff0
 [53]: https://github.com/dhermes/foreign-fortran
 [54]: https://gist.github.com/dhermes/0518d1c6ac111ca9c835709aaf861aad
+[55]: https://gist.github.com/dhermes/8999485869531dad1345eacf8acc8c91
