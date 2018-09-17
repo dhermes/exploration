@@ -91,6 +91,9 @@ Sometimes, these gists get "promoted" to full repositories ([e.g.][1]).
 - Fortran `allocatable` fields in user-defined types ([gist][50])
 - Hack for a "packed" version of a C struct that contains a pointer ([gist][51])
 - `valgrind` "failure" on OS X ([gist][52])
+- "Stencil" project to find optimal finite difference stencils using a fixed
+  number of points to approximate a fixed derivative (e.g. `u''(c)`)
+  ([gist][56])
 
 [1]: https://github.com/dhermes/profiling-multicore-python
 [2]: https://github.com/dhermes/bossylobster-blog/issues/63
@@ -166,3 +169,4 @@ Sometimes, these gists get "promoted" to full repositories ([e.g.][1]).
 [53]: https://github.com/dhermes/foreign-fortran
 [54]: https://gist.github.com/dhermes/0518d1c6ac111ca9c835709aaf861aad
 [55]: https://gist.github.com/dhermes/8999485869531dad1345eacf8acc8c91
+[56]: https://gist.github.com/dhermes/ba7276f20d5a4947cafbb911671ab8f1
