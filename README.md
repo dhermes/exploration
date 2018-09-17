@@ -94,6 +94,8 @@ Sometimes, these gists get "promoted" to full repositories ([e.g.][1]).
 - "Stencil" project to find optimal finite difference stencils using a fixed
   number of points to approximate a fixed derivative (e.g. `u''(c)`)
   ([gist][56])
+- Discussion of parametric curves; particularly classification and implicitization ([gist][57])
+- Some notes on GMRES ([gist][58])
 
 [1]: https://github.com/dhermes/profiling-multicore-python
 [2]: https://github.com/dhermes/bossylobster-blog/issues/63
@@ -170,3 +172,5 @@ Sometimes, these gists get "promoted" to full repositories ([e.g.][1]).
 [54]: https://gist.github.com/dhermes/0518d1c6ac111ca9c835709aaf861aad
 [55]: https://gist.github.com/dhermes/8999485869531dad1345eacf8acc8c91
 [56]: https://gist.github.com/dhermes/ba7276f20d5a4947cafbb911671ab8f1
+[57]: https://gist.github.com/dhermes/3551f053e3f81a85d488c7cdb22a18c8
+[58]: https://gist.github.com/dhermes/d72e36c40626bd93a4a02704ee79c7d1
