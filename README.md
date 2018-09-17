@@ -96,6 +96,8 @@ Sometimes, these gists get "promoted" to full repositories ([e.g.][1]).
   ([gist][56])
 - Discussion of parametric curves; particularly classification and implicitization ([gist][57])
 - Some notes on GMRES ([gist][58])
+- Discussion of spectral norm as dual to the nuclear norm, in the sense of
+  linear programming ([gist][59])
 
 [1]: https://github.com/dhermes/profiling-multicore-python
 [2]: https://github.com/dhermes/bossylobster-blog/issues/63
@@ -174,3 +176,4 @@ Sometimes, these gists get "promoted" to full repositories ([e.g.][1]).
 [56]: https://gist.github.com/dhermes/ba7276f20d5a4947cafbb911671ab8f1
 [57]: https://gist.github.com/dhermes/3551f053e3f81a85d488c7cdb22a18c8
 [58]: https://gist.github.com/dhermes/d72e36c40626bd93a4a02704ee79c7d1
+[59]: https://gist.github.com/dhermes/18793452c4e3b89b2ec86d7d73439483
