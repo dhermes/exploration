@@ -42,7 +42,7 @@ Sometimes, these gists get "promoted" to full repositories ([e.g.][1]).
   surfaces into: power/monomial basis, Chebyshev basis, Legendre
   basis, "nodal" basis of shape functions ([gist][18])
 - Differences between exponentiation in Python/C vs. in Fortran
-  ([gist][19], [another gist][19-also], [blog post TODO][19-blog])
+  ([gist][19], [another gist][19-also], [a third gist][19-also-too], [blog post TODO][19-blog])
 - Numerical loss of precision for polynomials with repeated roots
   ([gist][20])
   - Using a "compensated" version of floating point addition and multiplication to implement compensated Horner's algorithm ([gist][55])
@@ -121,6 +121,7 @@ Sometimes, these gists get "promoted" to full repositories ([e.g.][1]).
 [19]: https://gist.github.com/dhermes/872a13a2a20a86f3c46e
 [19-blog]: https://github.com/dhermes/bossylobster-blog/issues/59
 [19-also]: https://gist.github.com/dhermes/e6f7c81449cbbbcf26ed2355f35c749c
+[19-also-too]: https://gist.github.com/dhermes/4ea8c2a2413a629cc9d43c2f5da4bbae
 [20]: https://gist.github.com/dhermes/44e7c8762902f88e197f4f10ceaf26c7
 [21]: https://gist.github.com/dhermes/306a390aa688f8322504819afaefb7a1
 [22]: https://gist.github.com/dhermes/def6276026333018c07acab24866e2bd
